@@ -1,0 +1,17 @@
+Project Name,Officer Name,NRIC,Officer Application Status
+Acacia Breeze,David,T1234567J,SUCCESSFUL
+Acacia Breeze,Emily,S6543210I,SUCCESSFUL
+Acacia Breeze,Daniel,T2109876H,SUCCESSFUL
+Lotus Gardens,Olivia,S4567890K,SUCCESSFUL
+Lotus Gardens,Alexander,T7890123L,SUCCESSFUL
+Lotus Gardens,Sophie,S0123456M,INITIATED
+Moonlight Vista,Benjamin,T3456789N,SUCCESSFUL
+Moonlight Vista,Charlotte,S6789012O,SUCCESSFUL
+Moonlight Vista,Matthew,T9012345P,INITIATED
+Sunset Hills,Isabella,S2345678Q,SUCCESSFUL
+Sunset Hills,Jacob,T5678901R,SUCCESSFUL
+Sunset Hills,Mia,S8901234S,INITIATED
+Urban Heights,Ethan,T1234567T,SUCCESSFUL
+Urban Heights,Amelia,S4567890U,SUCCESSFUL
+Urban Heights,Daniel,T7890123V,INITIATED
+test,Daniel,T2109876H,INITIATED
