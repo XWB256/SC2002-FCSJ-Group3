@@ -102,7 +102,7 @@ public class Applicant extends User{
             return;
         }
 
-        if (selectedProject.getApplicationOpenDate().isEqual(LocalDate.now()) || selectedProject.getApplicationOpenDate().isBefore(LocalDate.now()) && selectedProject.getApplicationCloseDate().isAfter(LocalDate.now())) {
+        if (!(selectedProject.getApplicationOpenDate().isEqual(LocalDate.now()) || selectedProject.getApplicationOpenDate().isBefore(LocalDate.now()) && selectedProject.getApplicationCloseDate().isAfter(LocalDate.now()))) {
             System.out.println("Project is not in application period");
             return;
         }

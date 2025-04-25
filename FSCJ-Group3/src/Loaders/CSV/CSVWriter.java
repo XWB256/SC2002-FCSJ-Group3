@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class CSVWriter {
-    private static final String DATA_FOLDER = "Databases/";
+    private static final String DATA_FOLDER = "FSCJ-Group3/Databases/";
 
     public static void writeRecords(String fileName, List<Map<String, String>> records) {
         String path = DATA_FOLDER + fileName + ".csv";

@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 public class CSVReader {
-    private static final String DATA_FOLDER = "Databases/";
+    private static final String DATA_FOLDER = "FSCJ-Group3/Databases/";
 
     //read csv file and return a list, each element in the list is a map representing one line of data
     public static List<Map<String, String>> getRecords(String filename) {
